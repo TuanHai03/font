@@ -24,7 +24,7 @@ const charMap = {
     '\uE311': 'u',
     '\uE37C': 'R',
     '\uE39B': 'X',
-    '\uE3B0': 'I',
+    '\uE3B0': 'l',
     '\uE3B7': 'B',
     '\uE41B': 'o',
     '\uE41C': 'H',
